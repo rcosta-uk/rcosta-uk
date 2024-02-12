@@ -32,27 +32,40 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-Proxmox-EE0000?&style=for-the-badge&logo=Proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Palo%20Alto%20Firewall-0079BF?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+
+
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Palo%20Alto%20Firewall-0079BF?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20ESXi-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 
 
 </div>
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Windows-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Debian-A81D33?&style=for-the-badge&logo=debian&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Whazu-777BB4?&style=for-the-badge&logo=Whazu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
