@@ -36,7 +36,7 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
 ### Virtualization
 <div>
     <img src="https://img.shields.io/badge/-Proxmox-EE0000?&style=for-the-badge&logo=Proxmox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Palo%20Alto%20Firewall-0079BF?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware%20ESXi-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 
 
 </div>
