@@ -47,6 +47,7 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
     <img src="https://img.shields.io/badge/-OPNsense-2C3E50?&style=for-the-badge&logo=OPNsense&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20CCNAv7-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-333333?&style=for-the-badge&logo=pfSense&logoColor=white" />
 
 
 </div>
