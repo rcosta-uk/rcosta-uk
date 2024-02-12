@@ -65,7 +65,7 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Whazu-777BB4?&style=for-the-badge&logo=Whazu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-557C83?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
