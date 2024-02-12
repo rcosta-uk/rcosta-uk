@@ -4,12 +4,12 @@
 <a href="https://discord.com/channels/@me/1174436098202669178" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" /></a> -->
 
 
-
-
-I am a Cyber Security HND (BEng(Hons) Cyber Security and Forensics student (SCQF Level 8) with a profound passion and interest in technology.
+As a former IT Engineer with a genuine passion for technology, problem-solving abilities and many years of experience repairing, assembling, and maintaining computers, laptops, and servers, I have gained valuable technical skills and problem-solving abilities that I backed by a recent CompTIA+ qualification, which has further enhanced my knowledge and expertise in the field. Currently in my second year of studying for a BEng(Hons) HND Cyber Security and Forensics degree (SCQF Level 8), I am highly motivated by my profound passion for computing. My ultimate goal is to contribute my skills and mindset to a dynamic IT team, where I can continue to learn and grow while making a meaningful impact. 
 From an early age, I have been captivated by the world of computers and networks as the sheer complexity and endless possibilities of these systems have always fascinated me.
 
 ## Objective
+
+In addition to my college education, I have hands-on experience setting up, managing, and troubleshooting Small-Medium Business networks and also established a home lab where I am able to apply the theoretical knowledge I have gained through coursework and self-study by experimenting and testing various technologies and configurations in a controlled environment. 
 
 My enthusiasm for cybersecurity is driven by a profound comprehension of the topic and an unwavering aspiration to create a beneficial influence in this domain. I possess a firm grounding in the fundamental principles of computer science, encompassing programming, networking, and operating systems. Additionally, I am acquainted with diverse cybersecurity tools and methodologies, such as penetration testing, vulnerability assessment, and incident response.
 Apart from my academic pursuits, I derive great pleasure from delving into new subjects and engaging in self-directed learning activities. I am an enthusiastic learner who constantly seeks to broaden my knowledge and abilities beyond the confines of the classroom. As an illustration, I have established a personal laboratory at home where I can experiment with virtualization and containerization, IPS and IDS, as well as Linux. Lately, I have been engrossed in developing my own blog, which primarily focuses on providing tutorials on self-hosting and sharing cybersecurity news. I have been able to improve my skills and knowledge in these areas through this achievement, and I have also had the opportunity to share my insights with others. I am excited to keep following my passions and exploring new opportunities as I start my career in cybersecurity. 
