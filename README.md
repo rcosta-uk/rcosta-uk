@@ -1,5 +1,7 @@
 # Hello 👋 I'm RAUL
-<a href="https://www.linkedin.com/in/gomes-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gomes-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:raul@rcosta.uk" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> <a href="https://github.com/rcosta-uk" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
+
+
 
 I am a Cyber Security HND (BEng(Hons) Cyber Security and Forensics student (SCQF Level 8) with a profound passion and interest in technology.
 From an early age, I have been captivated by the world of computers and networks as the sheer complexity and endless possibilities of these systems have always fascinated me.
