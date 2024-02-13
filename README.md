@@ -20,7 +20,7 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| CompTIA A+                                    |                            |
+| Hardware Skills (Intel/AMD/Servers)    |    |
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -38,7 +38,7 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
     <img src="https://img.shields.io/badge/-Proxmox-EE0000?&style=for-the-badge&logo=Proxmox&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware%20ESXi-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware%20Pro-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
 </div>
 
 ### Network
@@ -47,9 +47,8 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
     <img src="https://img.shields.io/badge/-pfSense-333333?&style=for-the-badge&logo=pfSense&logoColor=white" />
     <img src="https://img.shields.io/badge/-OPNsense-2C3E50?&style=for-the-badge&logo=OPNsense&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco%20CCNAv7-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
-
+    <img src="https://img.shields.io/badge/-Snort-D93737?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Traefik-FFD43B?&style=for-the-badge&logo=Traefik&logoColor=white" />
 
 </div>
 
@@ -59,8 +58,6 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Debian-A81D33?&style=for-the-badge&logo=debian&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
-
 </div>
 
 ### SIEM
@@ -69,16 +66,23 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Penetration
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-#E34F26?&style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-#E34F26?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
+</div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA%20A+-005571?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
