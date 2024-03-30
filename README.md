@@ -21,11 +21,11 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Hardware Skills (Intel/AMD/Servers)    |    |
-| SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a> |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab |
-| Incident Response Planning and Execution      | SOC Automation Lab |
-| Case Management with TheHive                  | SOC Automation Lab |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/rcosta-uk/SOC-Automation-Project">Automation Project</a> |
+| Network Traffic Monitoring and Attack Detection | To be Added |
+| Security Automation with Shuffle SOAR         | To be Added |
+| Incident Response Planning and Execution      | To be Added |
+| Case Management with TheHive                  | To be Added |
 | Palo Alto Firewall   | To be Added |
 
 ## Tools
