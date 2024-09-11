@@ -20,13 +20,12 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Hardware Skills (Intel/AMD/Servers)    |    |
+| Hardware Skills (Intel/AMD/Servers)    |  ComptiA+  |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/rcosta-uk/SOC-Automation-Project">Automation Project</a> |
 | Network Traffic Monitoring and Attack Detection | To be Added |
-| Security Automation with Shuffle SOAR         | To be Added |
 | Incident Response Planning and Execution      | To be Added |
 | Case Management with TheHive                  | To be Added |
-| Palo Alto Firewall   | To be Added |
+| Palo Alto Firewall   | SQA NHD Certificate |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
