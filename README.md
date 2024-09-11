@@ -54,7 +54,6 @@ Apart from my academic pursuits, I derive great pleasure from delving into new s
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Windows-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Debian-A81D33?&style=for-the-badge&logo=debian&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
